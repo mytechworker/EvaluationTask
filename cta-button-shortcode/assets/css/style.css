@@ -1,0 +1,33 @@
+.cta-content h2 {
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 600;
+}
+
+.cta-content {
+    background-color: #2366bd;
+    color: white;
+    padding: 30px 30px 50px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.cta-content p {
+    margin-bottom: 50px;
+}
+
+#cta-btn {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #fff;
+    color: #2366bd;
+    padding: 12px 20px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+}
+
+#cta-btn:hover {
+    background-color: #2366bd;
+    color: #fff;
+}
